@@ -1,0 +1,9 @@
+[DEBUG]	(2018-12-18 15:24:50)	B06902123:	Start judging B06902123
+[INFO]	(2018-12-18 15:24:50)	B06902123.Mp2Test.simple_history_list_test:	Start simple_history_list_test test
+[INFO]	(2018-12-18 15:24:50)	B06902123.Mp2Test.git_clean_and_checkout:	git_stdout: b'HEAD is now at e23c712 judge log of 2018-11-08\n'
+[INFO]	(2018-12-18 15:24:50)	B06902123.Mp2Test.git_clean_and_checkout:	git_stderr: b'HEAD is now at e23c712 judge log of 2018-11-08\n'
+[INFO]	(2018-12-18 15:24:51)	B06902123.Mp2Test.simple_history_list_test:	Finish simple_history_list_test test
+[INFO]	(2018-12-18 15:24:51)	B06902123:	status=error
+[INFO]	(2018-12-18 15:24:51)	B06902123:	comment={'simple_history_list_test': 'Homework is not submitted'}
+[INFO]	(2018-12-18 15:24:51)	B06902123:	error={'simple_history_list_test': '/tmp2/r06922148/TA2018/repo/SP18-B06902123/MP2 does not exist'}
+[INFO]	(2018-12-18 15:24:51)	B06902123:	score=0.0
